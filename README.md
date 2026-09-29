@@ -1,4 +1,5 @@
 # Eternal_return_manager
+# 이터널 리턴 팬게임입니다.(이 게임은 수익을 창출하지 않습니다)
 
 Windows용 게임 배포판입니다.
 
